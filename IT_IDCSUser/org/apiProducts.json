@@ -1,0 +1,28 @@
+[
+	{
+		"apiResources": [
+			"/test21",
+            "/test22",			
+		],
+		"approvalType": "auto",
+		"attributes": [
+			{
+				"name": "access",
+				"value": "private"
+			}
+		],
+		"description": "This is the product for Test",
+		"displayName": "r99",
+		"environments": [
+			"test"
+		],
+		"name": "r89",
+		"proxies": [
+			"RAJTest"
+		],
+		"paths": [
+			"/getProperties"
+		],
+		"scopes": []
+	}
+]
